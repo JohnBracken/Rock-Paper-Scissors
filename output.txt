@@ -1,0 +1,27 @@
+$ ./rps
+Select Rock, Paper or Scissors (R, P or S): r
+You selected Rock.
+The computer picked: Rock.
+Tie game...
+Would you like to play again(y/n)?:fh
+Your choice wasn't one the available options..Try again.
+Would you like to play again(y/n)?:Y
+Alright. Let's play again.
+Select Rock, Paper or Scissors (R, P or S): p
+You selected Paper.
+The computer picked: Scissors.
+You lose. Scissors beats paper...
+Would you like to play again(y/n)?:aa
+Your choice wasn't one the available options..Try again.
+Would you like to play again(y/n)?:sdf
+Your choice wasn't one the available options..Try again.
+Would you like to play again(y/n)?:y
+Alright. Let's play again.
+Select Rock, Paper or Scissors (R, P or S): s
+You selected Scissors.
+The computer picked: Rock.
+You lose. Rock beats scissors...
+Would you like to play again(y/n)?:n
+Ok.  Thanks for playing!
+$ 
+
